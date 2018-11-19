@@ -1,2 +1,2 @@
-# ShowLivrePayPerView
-ShowLivre PayPerView
+# ShowLivreOnDemand
+ShowLivre OnDemand
